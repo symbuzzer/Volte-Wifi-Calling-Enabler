@@ -1,7 +1,7 @@
-FEATURES:
-- Enable Volte
-- Enable Wifi Calling
-
+FEATURES:  
+-Enable Volte  
+-Enable Wifi Calling  
+  
 CHANGELOG:  
- v1.00
-  - First Release
+ v1.00  
+  -First Release
