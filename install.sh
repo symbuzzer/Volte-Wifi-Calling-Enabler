@@ -122,9 +122,9 @@ REPLACE="
 # Set what you want to display when installing your module
 
 print_modname() {
-  ui_print "*******************************"
-  ui_print "  Volte & Wifi Calling Enabler  "
-  ui_print "*******************************"
+  ui_print "********************************"
+  ui_print " Volte and Wifi Calling Enabler "
+  ui_print "********************************"
 }
 
 # Copy/extract your module files into $MODPATH in on_install.
