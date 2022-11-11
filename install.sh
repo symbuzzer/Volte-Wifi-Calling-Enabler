@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "   Poco X3 GT ArrowOS 12 Fix   "
+  ui_print "  Volte & Wifi Calling Enabler  "
   ui_print "*******************************"
 }
 
