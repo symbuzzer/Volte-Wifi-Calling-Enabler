@@ -4,3 +4,4 @@ version=v1.0.1
 versionCode=101
 author=Ali Beyaz (avalibeyaz.com/github)
 description=Enable Volte and Wifi Calling features
+updateJson=https://github.com/symbuzzer/Volte-Wifi-Calling-Enabler-Magisk-Module/blob/main/update.json
