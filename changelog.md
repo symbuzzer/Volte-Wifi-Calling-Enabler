@@ -1,3 +1,6 @@
+v1.0.3  
+-Fixed Wifi issues  
+  
 v1.0.2  
 -Fixed updater  
   
