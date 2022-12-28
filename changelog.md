@@ -1,3 +1,6 @@
+v1.0.4  
+-Fixed Wifi issues, attempt 2  
+  
 v1.0.3  
 -Fixed Wifi issues  
   
