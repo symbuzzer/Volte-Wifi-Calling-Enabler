@@ -1,7 +1,7 @@
 id=VolteWifiCallingEnabler
 name=Volte and Wifi Calling Enabler
-version=v1.0.4
-versionCode=104
+version=v1.0.5
+versionCode=105
 author=Ali Beyaz (avalibeyaz.com/github)
 description=Enable Volte and Wifi Calling features
 updateJson=https://raw.githubusercontent.com/symbuzzer/Volte-Wifi-Calling-Enabler-Magisk-Module/main/update.json
