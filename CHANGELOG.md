@@ -1,3 +1,6 @@
+## v1.0.6  
+- Minor improvments
+  
 ## v1.0.5  
 - Added create&release workflow  
     
