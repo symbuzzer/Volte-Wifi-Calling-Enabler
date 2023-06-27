@@ -1,4 +1,7 @@
 ## v1.0.6  
+- Added KernelSU support  
+  
+## v1.0.6  
 - Minor improvments
   
 ## v1.0.5  
