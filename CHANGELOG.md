@@ -1,4 +1,8 @@
+For support this project: [Patreon](https://avalibeyaz.com/patreon)  
+--------------
+  
 ## v1.1.0  
+- Modified zipUrl in update.json
 - Removed unnecessary files
 - Modified README.md descriptions
 - Fixed some typos in CHANGELOG.md  
