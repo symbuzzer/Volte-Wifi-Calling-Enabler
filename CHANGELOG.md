@@ -2,10 +2,13 @@ For support this project: [Patreon](https://avalibeyaz.com/patreon)
 --------------
   
 ## v1.1.0  
+- Changed updateJson in module.prop for future updates  
 - Modified zipUrl in update.json
 - Removed unnecessary files
+- Modified module description
 - Modified README.md descriptions
-- Fixed some typos in CHANGELOG.md  
+- Fixed some typos in CHANGELOG.md
+- Added Patreon welcome to CHANGELOG.md  
   
 ## v1.0.7  
 - Added KernelSU support  
