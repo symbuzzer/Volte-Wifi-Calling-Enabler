@@ -1,4 +1,9 @@
-## v1.0.6  
+## v1.1.0  
+- Removed unnecessary files
+- Modified README.md descriptions
+- Fixed some typos in CHANGELOG.md  
+  
+## v1.0.7  
 - Added KernelSU support  
   
 ## v1.0.6  
