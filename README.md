@@ -3,5 +3,5 @@
 Should work all Android versions and UI's.
   
 ## FEATURES:  
-- Enable Volte  
-- Enable Wifi Calling  
+- Enables Volte  
+- Enables Wifi Calling (VoWiFi)  
