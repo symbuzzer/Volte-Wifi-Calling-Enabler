@@ -1,6 +1,6 @@
 {
-  "version": "v1.1.0",
-  "versionCode": 110,
-  "zipUrl": "https://github.com/symbuzzer/Volte-Wifi-Calling-Enabler-Magisk-Module/releases/latest/download/Volte-Wifi-Calling-Enabler-Magisk-Module.zip",
-  "changelog": "https://raw.githubusercontent.com/symbuzzer/Volte-Wifi-Calling-Enabler-Magisk-Module/main/CHANGELOG.md"
+  "version": "v1.1.1",
+  "versionCode": 111,
+  "zipUrl": "https://github.com/symbuzzer/Volte-Wifi-Calling-Enabler/releases/latest/download/Volte-Wifi-Calling-Enabler.zip",
+  "changelog": "https://raw.githubusercontent.com/symbuzzer/Volte-Wifi-Calling-Enabler/main/CHANGELOG.md"
 }
