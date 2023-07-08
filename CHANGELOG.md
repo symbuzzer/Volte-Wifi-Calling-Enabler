@@ -1,5 +1,9 @@
 For support this project: [Patreon](https://avalibeyaz.com/patreon)  
 --------------
+
+## v1.1.1
+- Removed "Magisk-Module" from part of project name due starting to support KernelSU too  
+- Changed repo and module name from various files
   
 ## v1.1.0  
 - Changed updateJson in module.prop for future updates  
