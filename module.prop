@@ -1,7 +1,7 @@
 id=VolteWifiCallingEnabler
 name=Volte and Wifi Calling Enabler
-version=v1.1.1
-versionCode=111
+version=v1.1.2
+versionCode=010102
 author=Ali Beyaz (avalibeyaz.com/github)
 description=Enables Volte and Wifi Calling features
 updateJson=https://raw.githubusercontent.com/symbuzzer/Volte-Wifi-Calling-Enabler/main/update.json
