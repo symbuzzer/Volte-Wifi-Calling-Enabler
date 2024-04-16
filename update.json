@@ -1,6 +1,6 @@
 {
-  "version": "v1.1.1",
-  "versionCode": 111,
+  "version": "v1.1.2",
+  "versionCode": "010102",
   "zipUrl": "https://github.com/symbuzzer/Volte-Wifi-Calling-Enabler/releases/latest/download/Volte-Wifi-Calling-Enabler.zip",
   "changelog": "https://raw.githubusercontent.com/symbuzzer/Volte-Wifi-Calling-Enabler/main/CHANGELOG.md"
 }
